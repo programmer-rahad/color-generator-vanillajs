@@ -1,0 +1,18 @@
+{
+  "header": {
+    "logoText": "color flipper",
+    "menus": [
+      {
+        "text": "simple"
+      },
+      {
+        "text": "hex"
+      },
+      {
+        "text": "rgb"
+      }
+    ]
+  },
+  "bodyText": "Background Color",
+  "buttonText": "change background"
+}
